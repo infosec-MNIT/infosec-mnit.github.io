@@ -1,17 +1,22 @@
 # menus.toml
 
 [[main]]
-        identifier = "about-me"
+        identifier = "about"
         name = "About"
         url = "/about/"
         weight = 10
 [[main]]
-        identifier = "contact-me"
+        identifier = "contact"
         name = "Contact"
         url = "/contact/"
         weight = 10
 [[main]]
-        identifier = "archives"
+        identifier = "members"
+        name = "Members"
+        url = "/members/"
+        weight = 10
+[[main]]
+        identifier = "blog"
         name = "Blog"
-        url = "/archives"
+        url = "/blog"
         weight = 10

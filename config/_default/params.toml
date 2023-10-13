@@ -11,11 +11,6 @@ rssFeedDescription = "full"
 	name = "Sidharth R"
 	description = "Official Infosec club of MNIT Jaipur"
 
-
-
-
-
-
 # Social icons that are shown on the homepage
 [[socialIcons]]
 name = "github"
