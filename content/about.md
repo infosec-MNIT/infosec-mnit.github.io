@@ -7,7 +7,7 @@ toc: false
 
 **Welcome to the Guardians of the Digital Realm!**
 
-At [Your College Name], our InfoSec Club is more than just a club; it's a sanctuary for digital adventurers, where you become the hero of your cybersecurity journey. 🚀
+At MNIT, our InfoSec Club is more than just a club; it's a sanctuary for digital adventurers, where you become the hero of your cybersecurity journey. 🚀
 
 ## 🕵️‍♂️ Who We Are
 
@@ -27,7 +27,7 @@ We're a tight-knit community of ethical hackers, crypto warriors, and cybersecur
 
 Are you ready to join the ranks of the InfoSec superheroes? Here's how:
 
-- Explore our upcoming [Events](#) to discover your next adventure.
+- Explore our [Events](/blog) to discover what we do.
 
 - Uncover hidden knowledge in our treasure trove of [Resources](#), including tutorials, tools, and learning materials.
 
@@ -35,8 +35,8 @@ Are you ready to join the ranks of the InfoSec superheroes? Here's how:
 
 ## 📬 Contact Us
 
-Got questions or eager to dive in? Reach out to us at [info@yourcollege-infosecclub.com](mailto:info@yourcollege-infosecclub.com).
+Got questions or eager to dive in? Reach out to us at [info@yourcollege-infosecclub.com](mailto:2021uec1454@mnit.ac.in).
 
-Stay up-to-date with our missions and cybersecurity news by following us on [Twitter](#) and [LinkedIn](#).
+Stay up-to-date with our missions and cybersecurity news by following us on [Twitter](#) and [Instagram](#).
 
 Prepare to embark on an epic quest in the world of information security and join us in our mission to be the guardians of the digital realm! Together, we'll ensure that the digital future remains safe and secure. 💻🛡️🌐
