@@ -26,11 +26,11 @@ We're a tight-knit community of ethical hackers, crypto warriors, and cybersecur
 
 Are you ready to join the ranks of the InfoSec superheroes? Here's how:
 
-- Explore our [Events](/blog) to discover what we do.
+- Explore our [Events](/content/blog/_index.md) to discover what we do.
 
-- Uncover hidden knowledge in our treasure trove of [Resources](#), including tutorials, tools, and learning materials.
+- Uncover hidden knowledge in our treasure trove of [Resources](/content/resources.md), including tutorials, tools, and learning materials.
 
-- Join our elite [Discord Guild](#) and team up with fellow defenders of the web.
+- Join our elite [Discord Guild](https://discord.gg/SzES6fBg) and team up with fellow defenders of the web.
 
 ## 📬 Contact Us
 
