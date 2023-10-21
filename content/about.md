@@ -3,7 +3,6 @@ title: "🛡️ About Us"
 toc: false
 ---
 
-# 🛡️ About Us
 
 **Welcome to the Guardians of the Digital Realm!**
 
@@ -35,8 +34,8 @@ Are you ready to join the ranks of the InfoSec superheroes? Here's how:
 
 ## 📬 Contact Us
 
-Got questions or eager to dive in? Reach out to us at [info@yourcollege-infosecclub.com](mailto:2021uec1454@mnit.ac.in).
+Got questions or eager to dive in? Reach out to us at [info@mnit-infosecclub.com](mailto:2021uec1454@mnit.ac.in).
 
-Stay up-to-date with our missions and cybersecurity news by following us on [Twitter](#) and [Instagram](#).
+Stay up-to-date with our missions and cybersecurity news by following us on [Twitter](https://x.com/infosecmnitj) and [Instagram](https://instagram.com/infosec.mnit).
 
 Prepare to embark on an epic quest in the world of information security and join us in our mission to be the guardians of the digital realm! Together, we'll ensure that the digital future remains safe and secure. 💻🛡️🌐
