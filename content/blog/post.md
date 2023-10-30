@@ -1,12 +1,12 @@
 +++
 title = "Basics Of Cybersecurity by INFOSEC CLUB"
 date = 2023-09-09T17:00:00+05:30
-author = "s4dr0t1"
+author = "hikartik"
 description = "Empowering students with cybersecurity knowledge"
 draft = false
 toc = true
 categories = ["Club News"]
-tags = ["Events", "Success", "Club"]
+tags = ["workshop", "event"]
 
 +++
 
@@ -31,18 +31,18 @@ The workshop "Basics Of Cybersecurity" by the Infosec Club at MNIT Jaipur was de
 
 1. **Fundamental Knowledge**: The workshop successfully achieved its goal of educating students on the fundamentals of cybersecurity. Participants gained insights into common cyber threats and best practices for safeguarding their digital lives.
 
-<img src="/fonts/Roboto/images/cyber_security_image3.jpg" alt="Alt Text" style="width:50%; display: grid;">
+<img src="/static/cyber_security_image3.jpg" alt="Alt Text" style="width:50%; display: grid;">
 
     
 
 2. **Hands-On Experience**: Through interactive activities, attendees gained practical experience in dealing with cybersecurity challenges.
 
-<img src="/fonts/Roboto/images/cyber_security_image1.jpg" alt="Alt Text" style="width:50%; display: grid;">
+<img src="/static/cyber_security_image1.jpg" alt="Alt Text" style="width:50%; display: grid;">
 
 3. **Networking and Knowledge Sharing**: The workshop provided a platform for networking and knowledge sharing among participants. It encouraged them to engage in ongoing cybersecurity discussions and stay vigilant in their online activities.
 The event received positive feedback, with participants expressing increased confidence in their ability to identify and mitigate cyber risks.
 
-<img src="/fonts/Roboto/images/cyber_security_image2.jpg" alt="Alt Text" style="width:50%; display: grid;">
+<img src="/static/cyber_security_image2.jpg" alt="Alt Text" style="width:50%; display: grid;">
 
 
 

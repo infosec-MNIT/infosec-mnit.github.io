@@ -11,7 +11,7 @@ author= 's4dr0t1'
 #tocopen = false
 #hideSummary = false
 #ShowWordCount = false
-draft= false
+draft= true
 
 #categories= [
     #'category'
