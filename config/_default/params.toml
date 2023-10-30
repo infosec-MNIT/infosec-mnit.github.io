@@ -6,10 +6,10 @@ toc = true
 rssFeedDescription = "full"
 
 [author]
-	avatar = "mnit_logo.png"
-	intro = "Infosec MNIT"
-	name = "Sidharth R"
-	description = "Official Infosec club of MNIT Jaipur"
+	avatar = 'mnit_logo.png'
+	intro = 'Infosec MNIT'
+	name = 'Infosec MNIT'
+	description = 'Official Infosec Club of MNIT Jaipur'
 
 # Social icons that are shown on the homepage
 [[socialIcons]]

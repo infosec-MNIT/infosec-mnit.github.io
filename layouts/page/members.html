@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="wrapper list-page">
+  <header class="header">
+    <h1 class="header-title center">{{ .Title }}</h1>
+  </header>
+  <main class="page-content" aria-label="Content">
+    <article>
+      <div class="members">
+	{{ range .Site.Data.members.members }}
+        <div class="member">
+          <a href="https://github.com/{{ .github }}">
+            <h2 class="member-name">{{ .name }}</h2>
+	    <img src="https://github.com/{{ .github }}.png"
+		 width="80" alt="{{ .name }}"
+		 class="member-pfp" />
+	    <span class="member-git">{{ .github }}</span>
+	    <div class="member-tags">
+	      {{ range $i, $e := .tags }}
+ 	      <span class="member-tag">{{ $e }}</span>
+	      {{ end }}
+	    </div>
+	  </a>
+	</div>
+      {{ end }}
+      </div>
+    </article>
+  </main>
+</div>
+{{ end }}
