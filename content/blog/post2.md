@@ -1,12 +1,12 @@
 +++
 title = "Unleash The Power of Web3 & Open Source"
 date = 2023-10-08T10:00:00+05:30
-author = "s4dr0t1"
+author = "hikartik"
 description = "Empowering attendees with Web3 and open-source knowledge"
 draft = false
 toc = true
 categories = ["Club News"]
-tags = ["Events", "Success", "Club"]
+tags = ["workshop", "event"]
 +++
 
 # Introduction
@@ -29,13 +29,13 @@ The training session "Unleash The Power of Web3 & Open Source" achieved its prim
 **Key Outcomes:**
 
 1. **Understanding Web3**: Participants gained valuable insights into Web3's fundamentals, including blockchain technology and decentralized applications. They learned about its potential applications across various industries.
-<img src="/fonts/Roboto/images/web3_image1.jpg" alt="Alt Text" style="width:50%; display: grid;">
+<img src="/static/web3_image1.jpg" alt="Alt Text" style="width:50%; display: grid;">
 
 2. **Hands-On Experience**: Participants deployed their first storage smart contract on the Nordek blockchain (Open source).
-<img src="/fonts/Roboto/images/web3_image3.jpg" alt="Alt Text" style="width:50%; display: grid;">
+<img src="/static/web3_image3.jpg" alt="Alt Text" style="width:50%; display: grid;">
 
 3. **Open Source Contributions**: They developed their portfolio using Fastn Network and made their first open-source contribution.
-<img src="/fonts/Roboto/images/web3_image2.jpg" alt="Alt Text" style="width:50%; display: grid;">
+<img src="/static/web3_image2.jpg" alt="Alt Text" style="width:50%; display: grid;">
 
 The feedback received from attendees was overwhelmingly positive, with participants expressing increased awareness of Web3's potential and the importance of open-source principles. The event successfully empowered individuals to harness the power of Web3 and open source for a more decentralized and innovative digital landscape.
 
