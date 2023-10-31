@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="wrapper list-page">
+  <header class="header">
+    <h1 class="header-title center">{{ .Title }}</h1>
+  </header>
+  <main class="page-content" aria-label="Content">
+    <article>
+      {{- if .Site.Params.toc -}}
+      {{ if not (eq .Params.toc false) }}
+      <details class="toc">
+        <summary><b>{{ T "single.table_of_contents" }}</b></summary>
+        {{ .TableOfContents }}
+      </details>
+      {{ end }}
+      {{- end -}}
+      <div class="page-content">
+        {{ .Content }}
+      </div>
+    </article>
+  </main>
+</div>
+{{ end }}

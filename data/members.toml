@@ -1,0 +1,25 @@
+[[members]]
+name = "Abhishek Kumar Basniwal"
+github = "akbasniwal"
+tags = [ "crypto" ]
+
+[[members]]
+name = "Divyansh Rawat"
+github = "d-raw"
+tags = [ "reversing", "debugging", "pwn" ]
+
+[[members]]
+name = "Pranshu Sharma"
+github = "null-calx"
+instagram = "pranshukhandal"
+tags = [ "crypto", "web", "misc" ]
+
+[[members]]
+name = "Rohit Dhill"
+github = "s4dr0t1"
+tags = [ "reversing", "debugging" ]
+
+[[members]]
+name = "Sachin Kumar"
+github = "s4ch"
+tags = [ "web", "hardware", "pwn" ]

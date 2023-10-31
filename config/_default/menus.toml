@@ -1,22 +1,23 @@
-# menus.toml
+[[main]]
+identifier = 'about'
+name = 'About'
+url = '/about'
+weight = 1
 
 [[main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
-        weight = 10
+identifier = 'resources'
+name = 'Resources'
+url = '/resources'
+weight = 2
+
 [[main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact/"
-        weight = 10
+identifier = 'blog'
+name = 'Blog'
+url = '/blog'
+weight = 3
+
 [[main]]
-        identifier = "members"
-        name = "Members"
-        url = "/members/"
-        weight = 10
-[[main]]
-        identifier = "blog"
-        name = "Blog"
-        url = "/blog"
-        weight = 10
+identifier = 'members'
+name = 'Members'
+url = '/members'
+weight = 4
