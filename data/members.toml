@@ -22,4 +22,4 @@ tags = [ "reversing", "debugging", "pwn" ]
 [[members]]
 name = "Sachin Kumar"
 github = "s4ch"
-tags = [ "web", "misc" "forensics", "osint", "hardware", "pwn" ]
+tags = [ "web", "misc" , "forensics", "osint", "hardware", "pwn" ]
