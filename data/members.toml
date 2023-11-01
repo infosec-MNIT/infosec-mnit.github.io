@@ -1,7 +1,7 @@
 [[members]]
 name = "Abhishek Kumar Basniwal"
 github = "akbasniwal"
-tags = [ "crypto" ]
+tags = [ "crypto", "hardware" ]
 
 [[members]]
 name = "Divyansh Rawat"
@@ -17,9 +17,9 @@ tags = [ "crypto", "web", "misc" ]
 [[members]]
 name = "Rohit Dhill"
 github = "s4dr0t1"
-tags = [ "reversing", "debugging" ]
+tags = [ "reversing", "debugging", "pwn" ]
 
 [[members]]
 name = "Sachin Kumar"
 github = "s4ch"
-tags = [ "web", "hardware", "pwn" ]
+tags = [ "web", "misc" "forensics", "osint", "hardware", "pwn" ]
